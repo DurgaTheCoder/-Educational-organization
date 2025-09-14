@@ -9,4 +9,4 @@ This repository contains:
 [Click here to view the document]()
 
 ## Video Demo
-[Click here to watch the demo](https://github.com/DurgaTheCoder/-Educational-organization/blob/main/Education%20Organization.mp4)
+[Click here to watch the demo](https://github.com/DurgaTheCoder/-Educational-organization/blob/main/Education%20Organisation.mp4)
